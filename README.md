@@ -1,2 +1,2 @@
-# mbah360.github.io
+# mbah.github.io
 # Test github page
